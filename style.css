@@ -1,0 +1,62 @@
+/* Style untuk form login */
+form.loginForm {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #f7f7f7;
+    border-radius: 6px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+  }
+  
+  form.loginForm input[type="text"],
+  form.loginForm input[type="password"] {
+    width: 100%;
+    margin: 10px 0px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+  }
+  
+  form.loginForm input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    background: #4CAF50;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Style untuk form signup */
+  form.signupForm {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #f7f7f7;
+    border-radius: 6px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+  }
+  
+  form.signupForm input[type="text"],
+  form.signupForm input[type="password"] {
+    width: 100%;
+    margin: 10px 0px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+  }
+  
+  form.signupForm input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    background: #4CAF50;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
